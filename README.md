@@ -14,7 +14,7 @@ This version is better than the previous version
 
 click here 👇👇
 
-<a href="https://bankist-max-richard.netlify.app/" target="_blank" style="text-decoration:none;">Bankist<a>
+<a href="https://bankistnumber.netlify.app/" target="_blank" style="text-decoration:none;">Bankist<a>
 
 or you can download the project and run the index file and run on your browser
 
